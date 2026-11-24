@@ -1,4 +1,4 @@
-# Automações com IA local para Windows
+# Bot de automaçao via telegram
 
 Assistente em segundo plano que transforma e-mails em alertas de urgência e reúne vagas em um boletim no Telegram. Desenvolvido em Python para Windows 11, com inferência local via Ollama e navegação headless com Playwright.
 
