@@ -1,4 +1,4 @@
-# Registra duas tarefas sem console. Execute uma vez após configurar/testar.
+﻿# Registra duas tarefas sem console. Execute uma vez após configurar/testar.
 # Não armazena senha do Windows. Funciona com usuário logado, inclusive bloqueado.
 [CmdletBinding()]
 param(
