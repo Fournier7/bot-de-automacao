@@ -1,6 +1,6 @@
 # Automações com IA local para Windows
 
-Assistente em segundo plano que transforma e-mails em alertas de urgência e reúne vagas de TI júnior em um boletim no Telegram. Desenvolvido em Python para Windows 11, com inferência local via Ollama e navegação headless com Playwright.
+Assistente em segundo plano que transforma e-mails em alertas de urgência e reúne vagas em um boletim no Telegram. Desenvolvido em Python para Windows 11, com inferência local via Ollama e navegação headless com Playwright.
 
 O projeto nasceu de uma necessidade prática: acompanhar oportunidades e mensagens importantes sem contratar APIs de IA ou interromper o uso do computador.
 
